@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @NuzhaKhalid, a Computer Science grad from FAST-NUCES, Lahore
+- 👋 Hi, I'm @NuzhaKhalid, a Computer Science graduate from FAST-NUCES, Lahore
 - 🔭 I’m currently in my final final year
 - 📫 You can reach me via my email nuzhakhalid99@gmail.com
 
